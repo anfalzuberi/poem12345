@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    
+}
+.ones{
+    text-align: center;
+    color: rgb(63, 172, 134);
+}
+.one{
+    text-align: center;
+    background-color:purple ;
+    color: white;
+    margin: 50px;
+}
+.two {
+    text-align: center;
+    background-color:purple ;
+    color: white;
+      margin: 50px;
+
+}
+.three{
+    background-color:purple ;
+    color: white;
+      margin: 50px;
+}
+.four{
+    background-color:purple ;
+    color: white;
+    margin: 50px;
+}
+
+.five{
+    background-color:purple ;
+    color: white;
+    margin: 50px;
+}
+.head{
+    text-align: center;
+    background-color: purple;
+}
+.six{
+    text-align: center;
+    background-color:purple ;
+    color: white;
+    border: 50px solid purple;
+}
+.p1{
+    text-align: center;
+}
+.twos{
+    color: rgb(63, 172, 134);
+}
